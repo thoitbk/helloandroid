@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
 	private void initializeViews() {
 		select1 = (Button) findViewById(R.id.select1);
 		select2 = (Button) findViewById(R.id.select2);
-		select3 = (Button) findViewById(R.id.select3);
+		select3 = (Button) findViewById(R.id.select3);;
 		
 		select1.setOnClickListener(onSelect1Click);
 		select2.setOnClickListener(onSelect2Click);
