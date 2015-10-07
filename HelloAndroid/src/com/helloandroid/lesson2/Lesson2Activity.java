@@ -29,7 +29,7 @@ public class Lesson2Activity extends ListActivity {
 	protected void onListItemClick(ListView l, View v, int position, long id) {
 		super.onListItemClick(l, v, position, id);
 		
-		// Mảng chứa giá trị đã được check
+		// Mang chua cac gia tri da duoc check
 		SparseBooleanArray checked = l.getCheckedItemPositions();
 		for (int i = 0; i < checked.size(); i++) {
 			int key = checked.keyAt(i);
