@@ -9,11 +9,15 @@
     <string name="select1">Lesson 1</string>
     <string name="select2">Lesson 1a</string>
     <string name="select3">Lesson 2</string>
+    <string name="select4">Lesson 4</string>
     <string name="title_activity_lession1">Lesson 1</string>
     <string name="enter_name">Enter your name:</string>
     <string name="confirm">Confirm</string>
     <string name="backToTop">Back to top</string>
     <string name="title_activity_lesson1a">Lesson 1a</string>
     <string name="title_activity_lesson2">Lesson 2</string>
+    <string name="title_activity_lesson3">Lesson 3</string>
+    <string name="full">Full</string>
+    <string name="clear">Clear</string>
 
 </resources>
