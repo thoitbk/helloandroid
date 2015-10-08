@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.helloandroid.lesson3.Lesson3Activity" >
+
+    <item
+        android:id="@+id/full"
+        android:title="@string/full"
+        android:icon="@drawable/ic_action_facebook"
+        app:showAsAction="always"/>
+    <item 
+        android:id="@+id/clear"
+        android:title="@string/clear"
+        android:icon="@drawable/ic_action_facebook"
+        android:showAsAction="always"/>
+
+</menu>
