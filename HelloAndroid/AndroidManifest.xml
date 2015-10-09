@@ -35,8 +35,12 @@
             android:label="@string/title_activity_lesson2" >
         </activity>
         <activity
-            android:name="com.helloandroid.lesson3.Lesson3Activity"
+            android:name=".lesson3.Lesson3Activity"
             android:label="@string/title_activity_lesson3" >
+        </activity>
+        <activity
+            android:name="com.helloandroid.lesson4.Lesson4Activity"
+            android:label="@string/title_activity_lesson4" >
         </activity>
     </application>
 

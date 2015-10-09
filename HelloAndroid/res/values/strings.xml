@@ -19,5 +19,7 @@
     <string name="title_activity_lesson3">Lesson 3</string>
     <string name="full">Full</string>
     <string name="clear">Clear</string>
+    <string name="title_activity_lesson4">Custom Listview</string>
+    <string name="select5">Lesson 5</string>
 
 </resources>
